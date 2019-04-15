@@ -1,1 +1,3 @@
 Hola! Aquest és el meu fitxer de text! Segona modificació del fitxer.
+Hola! Aquest és el meu fitxer de text! 
+Modifico el fitxer.
